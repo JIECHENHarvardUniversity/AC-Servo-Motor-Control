@@ -6,6 +6,10 @@ The Motion controller we used is the GE-800-PV from Googol Technology, which can
 Both position control and velocity control have been developed for this project.
 
 # GT Demo2.6, GT Driver, and GT Windows are the official libraries for the motion controller
+http://www.googoltech.com.cn/
 # PositionControl
+A program developed by me to facilitate position control of the Panasonic AC servo motors
 # VelocityControl
+A program developed by me to facilitate velocity control of the Panasonic AC servo motors
 # PortControlThread
+A multi-thread program
